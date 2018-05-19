@@ -24,5 +24,4 @@ function dec(a) {
 
 function makeInt(string) {
   return parseInt(string)
-  
 }
